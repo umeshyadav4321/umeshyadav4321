@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing myFull-Stack web-Development at Masai School
+- 🔭 I’m currently pursuing my Full-Stack web-Development at Masai School
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 👯 I’m currently lerning  **MERN Stack Technology at Masai School**
 
-- 👯 I’m also proficient in **MERN Stack Technology**
+- 🌱 I’m also learning **Data Structures and Algorithms.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolionew-theta.vercel.app/)**
 
