@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="250px" margin="auto" src="https://i.imgur.com/iXuL1HG.png" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px",height="100px">, I'm Umesh Yadav</h1>
+<h1 align="center">I'm Umesh Yadav</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Mumbai.</h3>
 
 
