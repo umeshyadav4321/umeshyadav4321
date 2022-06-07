@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://new-seven-xi.vercel.app/)**
 
-- 📫 How to reach me **umeshyadav3190@gmail.com**
+- 📫 Feel free to mail me at **umeshyadav3190@gmail.com**
 
 - ⚡ Fun fact **I play Outdoor Games and go for Running very Often.**
 
