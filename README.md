@@ -12,7 +12,7 @@
 
 - 🌱 I’m also learning **Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://new-seven-xi.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://umeshyadavportfolio.vercel.app/)**
 
 - 📫 Feel free to mail me at **umeshyadav3190@gmail.com**
 
