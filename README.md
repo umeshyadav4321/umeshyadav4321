@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing my Full-Stack web-Development at Masai School
+- 🔭 I’m currently working at Shertech information Solutions Pvt Ltd as Software Engineer
 
-- 👯 I’m currently lerning  **Full-Stack Technology at Masai School**
+- 👯 I’m currently working on Tech Stacks like  **Html, CSS, React, Javascript, Typescript, Material Ui, Rest APIs, GraphQl**
 
 - 🌱 I’m also learning **Data Structures and Algorithms.**
 
